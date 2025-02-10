@@ -5,6 +5,7 @@ Class to use animated gifs, of any dimensions and sizes, on a C# WPF application
 
 # Memory usage at idle
 ![memory](https://i.imgur.com/jg3tsvu.png)
+
 (in this example, the .gif file has 90+MB in size)
 
 # How to implement
