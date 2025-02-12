@@ -1,4 +1,4 @@
-![gif](https://github.com/mistwisp/C-Animated-Gif-WPF/blob/main/example.gif)
+![gif](https://github.com/mistwisp/Animated-Gif-WPF/blob/main/example.gif)
 
 # C-Animated-Gif-WPF
 Class to use animated gifs, of any dimensions and sizes, on a C# WPF application
